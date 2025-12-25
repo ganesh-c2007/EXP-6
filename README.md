@@ -11,7 +11,8 @@ DIAGRAM:
 CIRCUIT DIAGRAM
 
 
-![Uploading 521918936-b8a38b4f-d51c-47f4-89d1-c77d4dc84527.png…]()
+
+<img width="514" height="396" alt="521918936-b8a38b4f-d51c-47f4-89d1-c77d4dc84527" src="https://github.com/user-attachments/assets/b1180874-094e-4d71-a63e-17cb9859c6d5" />
 
 
 
@@ -28,7 +29,8 @@ OBSERVATION TABLE
 
 
 
-![Uploading 521919262-859e6c9c-1b49-4d29-8b34-4b8233ed6ef7.png…]()
+<img width="509" height="256" alt="521919262-859e6c9c-1b49-4d29-8b34-4b8233ed6ef7" src="https://github.com/user-attachments/assets/1ea3f1db-4e1a-42d1-8f4c-d6ce66296dba" />
+
 
 
 
